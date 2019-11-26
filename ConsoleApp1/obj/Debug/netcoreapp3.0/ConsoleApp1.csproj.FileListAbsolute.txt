@@ -1,0 +1,11 @@
+C:\Work\Ларина\MOAP\25-11-2019_05-56-04\HomeWork1.3\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+C:\Work\Ларина\MOAP\25-11-2019_05-56-04\HomeWork1.3\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Work\Ларина\MOAP\25-11-2019_05-56-04\HomeWork1.3\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+C:\Work\Ларина\MOAP\25-11-2019_05-56-04\HomeWork1.3\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+C:\Work\Ларина\MOAP\25-11-2019_05-56-04\HomeWork1.3\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+C:\Work\Ларина\MOAP\25-11-2019_05-56-04\HomeWork1.3\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+C:\Work\Ларина\MOAP\25-11-2019_05-56-04\HomeWork1.3\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Work\Ларина\MOAP\25-11-2019_05-56-04\HomeWork1.3\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Work\Ларина\MOAP\25-11-2019_05-56-04\HomeWork1.3\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+C:\Work\Ларина\MOAP\25-11-2019_05-56-04\HomeWork1.3\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+C:\Work\Ларина\MOAP\25-11-2019_05-56-04\HomeWork1.3\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb
